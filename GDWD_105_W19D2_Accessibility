@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<header>
+<header style="background-color:yellow;">
+<h1>Header</h1>
+</header>
+<nav>
+<nav style="background-color:yellow;">
+<p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Link</a></p>
+</nav>
+<section>
+<section style="background-color:yellow;">
+<p>Stuff</p>
+<p>.</p>
+</section>
+<!DOCTYPE html>
